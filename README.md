@@ -3,7 +3,7 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=CodeGetters&show_icons=true&theme=buefy">
 
 🙋‍♂️ I'm
-@CodeGetters~<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
+@小丞儿~<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 
 👀 Just like the name of my profile.
 
@@ -11,7 +11,7 @@
 <br>
 <h4>
 <a href="https://github.com/CodeGetters">
-<img align="right" src="https://count.getloli.com/get/@CodeGetters?theme=rule34" alt="Johnson Xin" />
+<img align="right" src="https://count.kjchmc.cn/get/@orange-example?theme=rule34" alt="小丞儿" />
 </a>
 </h3>
 
@@ -46,7 +46,7 @@
 
 [//]: # (<img src="https://github-readme-stats-zzy-eight.vercel.app/api/top-langs/?username=CodeGetters&layout=compact"/>)
 
-[//]: # (![]&#40;https://github-readme-activity-graph.cyclic.app/graph?username=CodeGetters&theme=github&#41;)
+[//]: # (![]&#40;https://github-readme-activity-graph.cyclic.app/graph?username=A-Kevin1217&theme=github&#41;)
 <!---
 
 CodeGetters/CodeGetters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
