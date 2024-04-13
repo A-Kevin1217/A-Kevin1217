@@ -44,7 +44,7 @@
 [//]: # (blog：[![Blog]&#40;https://img.shields.io/badge/-Blog-07c160?logo=Micro.blog&logoColor=black&#41;]&#40;http://reday.asia&#41;)
 
 
-[//]: # (<img src="https://github-readme-stats-zzy-eight.vercel.app/api/top-langs/?username=CodeGetters&layout=compact"/>)
+[//]: # (<img src="https://github-readme-stats-zzy-eight.vercel.app/api/top-langs/?username=A-Kevin1217&layout=compact"/>)
 
 [//]: # (![]&#40;https://github-readme-activity-graph.cyclic.app/graph?username=A-Kevin1217&theme=github&#41;)
 <!---
