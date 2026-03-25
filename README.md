@@ -17,11 +17,6 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-Kevin1217/A-Kevin1217/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/A-Kevin1217/A-Kevin1217/output/github-contribution-grid-snake.svg" />
-</picture>
-
 <p>
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
@@ -48,6 +43,12 @@
 [//]: # (<img src="https://github-readme-stats-zzy-eight.vercel.app/api/top-langs/?username=A-Kevin1217&layout=compact"/>)
 
 [//]: # (![]&#40;https://github-readme-activity-graph.cyclic.app/graph?username=A-Kevin1217&theme=github&#41;)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-Kevin1217/A-Kevin1217/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/A-Kevin1217/A-Kevin1217/output/github-contribution-grid-snake.svg" />
+</picture>
+
 <!---
 
 CodeGetters/CodeGetters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
