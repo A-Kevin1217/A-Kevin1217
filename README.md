@@ -1,7 +1,5 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"> Hi there
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=A-Kevin1217&show_icons=true&theme=github_dark">
-
 🙋‍♂️ I'm
 @Kevin~<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 
@@ -40,7 +38,7 @@
 [//]: # (blog：[![Blog]&#40;https://img.shields.io/badge/-Blog-07c160?logo=Micro.blog&logoColor=black&#41;]&#40;http://reday.asia&#41;)
 
 
-[//]: # (<img src="https://github-readme-stats-zzy-eight.vercel.app/api/top-langs/?username=A-Kevin1217&layout=compact"/>)
+[//]: # (<img src="https://github-readme-stats-zzy-eight..app/api/top-langs/?username=A-Kevin1217&layout=compact"/>)
 
 [//]: # (![]&#40;https://github-readme-activity-graph.cyclic.app/graph?username=A-Kevin1217&theme=github&#41;)
 
